@@ -4,6 +4,11 @@ A web application that displays **current weather** and a **5-day forecast**, su
 
 ---
 
+## 📷 Screenshot
+![App Screenshot](./docs/screenshot.png)
+
+---
+
 ## 🚀 Key Features
 - **Search City**: look up cities using OpenWeather **Geocoding API** (real-time with debounce).
 - **Current Weather**: show temperature, conditions, humidity, pressure, wind speed.
@@ -25,3 +30,7 @@ A web application that displays **current weather** and a **5-day forecast**, su
   - **5-day / 3-hour Forecast API**
 - Service Worker (PWA with cache-first + network-first strategies)
 - localStorage (last city)
+
+---
+## 🎬 Demo
+[▶ Watch the demo](./docs/demo.mp4)
