@@ -1,6 +1,6 @@
 # 🌤️ Weather Dashboard (React + PWA)
 
-A web application that displays **current weather** and a **5-day forecast**, supports **city search**, and works **offline** thanks to PWA.
+A progressive web application that displays **current weather** and a **5-day forecast**, supports **city search**, and works **offline** thanks to PWA.
 
 ---
 
